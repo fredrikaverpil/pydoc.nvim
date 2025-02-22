@@ -110,7 +110,14 @@ local function format_pydoc_modules_output(input)
 		end
 
 		-- Skip empty lines and the final help text
-		if started and line ~= "" and not line:match("^Enter any module") then
+		if started and line ~= "" then
+			-- Stop when we reach the end help message:
+			-- "Enter any module name to get more help.  Or, type "modules spam" to search
+			-- for modules whose name or summary contain the string "spam"."
+			if line:match("^Enter any module") then
+				break
+			end
+
 			-- Split the line by whitespace and extract module names
 			for module in line:gmatch("([^%s]+)%s*") do
 				-- Skip common text patterns that aren't module names
