@@ -151,7 +151,6 @@ local function get_packages()
 	end
 
 	local pydoc_modules = get_pydoc_modules()
-	vim.notify(vim.inspect(pydoc_modules))
 	local all_modules = format_pydoc_modules_output(pydoc_modules)
 
 	-- Update cache
