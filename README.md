@@ -81,7 +81,7 @@ opts = {
         type = "split", -- split or vsplit
     },
     highlighting = {
-        language = "markdown", -- the tree-sitter parser used for syntax highlighting
+        language = "python", -- the tree-sitter parser used for syntax highlighting
     },
     picker = {
         type = "native", -- native, telescope or snacks
