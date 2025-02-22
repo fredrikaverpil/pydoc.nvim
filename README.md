@@ -7,6 +7,11 @@ Fuzzy search Python standard library modules and project modules.
 > This is being evaluated/developed as we speak. I'll remove this notice once a
 > 1.0.0 release has been made.
 
+## Screenshots
+
+<img width="1596" alt="pydoc" src="https://github.com/user-attachments/assets/6eb06b7d-1330-4ec0-a8ea-e978b132d171" />
+_Screenshot is showing the Snacks picker._
+
 ## Features
 
 - Browse and search Python standard library modules and project modules.
