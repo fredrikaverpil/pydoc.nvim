@@ -41,7 +41,7 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
         {
             "nvim-treesitter/nvim-treesitter",
             opts = {
-              ensure_installed = { "python" },
+              ensure_installed = { "markdown" },
             },
         },
     },
@@ -86,7 +86,7 @@ opts = {
         type = "split", -- split or vsplit
     },
     highlighting = {
-        language = "python", -- the tree-sitter parser used for syntax highlighting
+        language = "markdown", -- the tree-sitter parser used for syntax highlighting
     },
     picker = {
         type = "native", -- native, telescope or snacks

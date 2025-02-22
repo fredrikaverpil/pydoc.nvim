@@ -7,7 +7,7 @@ M.config = {
 		type = "split", -- split or vsplit
 	},
 	highlighting = {
-		language = "python",
+		language = "markdown",
 	},
 	picker = {
 		type = "native", -- native or snacks
