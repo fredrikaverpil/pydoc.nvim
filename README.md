@@ -4,8 +4,9 @@ Fuzzy search Python standard library modules and project modules.
 
 > [!WARNING]
 >
-> This is being evaluated/developed as we speak. I'll remove this notice once a
-> 1.0.0 release has been made.
+> This project is being evaluated/developed. I'll remove this notice once a
+> 1.0.0 release has been made. But until then, expect breakage as I'm playing
+> around.
 
 ## Screenshots
 
