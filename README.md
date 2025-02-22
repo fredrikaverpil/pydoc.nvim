@@ -10,7 +10,7 @@ Fuzzy search Python standard library modules and project modules.
 
 ## Screenshots
 
-<img width="1596" alt="pydoc" src="https://github.com/user-attachments/assets/6eb06b7d-1330-4ec0-a8ea-e978b132d171" />
+![snacks.nvim picker screenshot](https://github.com/user-attachments/assets/6eb06b7d-1330-4ec0-a8ea-e978b132d171")
 _Screenshot is showing the Snacks picker._
 
 ## Features
