@@ -35,7 +35,6 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 ```lua
 {
     "fredrikaverpil/pydoc.nvim",
-    version = "*",
     dependencies = {
         { "nvim-telescope/telescope.nvim" }, -- optional
         { "folke/snacks.nvim" }, -- optional
