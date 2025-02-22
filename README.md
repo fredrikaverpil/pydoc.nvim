@@ -2,7 +2,7 @@
 
 Fuzzy search Python standard library modules and project modules.
 
-> ![WARNING]
+> [!WARNING]
 >
 > This is being evaluated/developed as we speak. I'll remove this notice once a
 > 1.0.0 release has been made.
