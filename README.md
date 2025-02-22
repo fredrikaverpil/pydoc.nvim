@@ -36,7 +36,7 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
         {
             "nvim-treesitter/nvim-treesitter",
             opts = {
-              ensure_installed = { "markdown" },
+              ensure_installed = { "python" },
             },
         },
     },
