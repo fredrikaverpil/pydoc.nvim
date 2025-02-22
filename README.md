@@ -123,3 +123,6 @@ Contributions are welcome! Please feel free to submit a pull request.
 I would be extra interested in discussions and contributions around improving
 the syntax highlighting of `python -m pydoc` output, as it is currently quite
 "busy", when applying the syntax highlighting of markdown syntax.
+
+I'm also wondering if `pydoc` is the best tool to output documentation to begin
+with.
